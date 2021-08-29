@@ -1,0 +1,5 @@
+11. Peak current mode control (Buck converter) araştırma ve simülasyonu (psim6) 1 kişi
+
+ İlk 12 projenin psim 6.0 programı için örnekleri bulunmaktadır. 
+Bundan ötürü ilk 12 proje içerisinden seçim yapan öğrenciler 
+hem simülasyon hem de araştırma yapıp rapor hazırlayacaklardır.
